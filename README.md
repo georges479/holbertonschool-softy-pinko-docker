@@ -1,1 +1,0 @@
-_softy_pinko_docker
